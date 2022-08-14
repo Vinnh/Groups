@@ -12,5 +12,5 @@ Um simples site de apresentação de um aplicativo para encontrar amigos.
   <h3>Status: ✔Concluído</h3>
 
 <div>
-  <h3>📌Confira o resultado <a href="groups-app-vini.netlify.app">Aqui </a></h3>
+  <h3>📌Confira o resultado <a href="https://groups-app-vini.netlify.app/">Aqui </a></h3>
 </div>
